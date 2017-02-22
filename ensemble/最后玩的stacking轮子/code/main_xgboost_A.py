@@ -102,7 +102,7 @@ def xgb_model(seed=1,gamma=0.1,max_depth=12,lamb=300,subsample=0.7,colsample_byt
 
 def main():
     
-    filename="H:\\ET/model/main_xgb_1" # nam prefix
+    filename="H:\\ET/model/main_xgb_A" # nam prefix
     #model = linear_model.LogisticRegression(C=3)  # the classifier we'll use
     
     # === load data in memory === #

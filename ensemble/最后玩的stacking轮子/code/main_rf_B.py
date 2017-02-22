@@ -101,7 +101,7 @@ def rf_model(n_estimators=300,criterion='entropy',max_depth=6,max_features=0.5,m
 
 def main():
     
-    filename="H:\\ET/model/main_rf_2_20170220" # nam prefix
+    filename="H:\\ET/model/main_rf_B_20170220" # nam prefix
     #model = linear_model.LogisticRegression(C=3)  # the classifier we'll use
     
     # === load data in memory === #
